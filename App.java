@@ -2,7 +2,9 @@
 public class App {
     public static void main(String[] args) {
         
-        System.out.println("Homla soy cheems y este es mi primer programa en java");
+        for(int i = 0; i < 10; i++){
+            System.out.println(i);
+        }
 
     }
 }
